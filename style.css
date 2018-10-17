@@ -1,0 +1,10 @@
+#name{font-size:8vw;
+  text-align: center;}
+#design{font-size: 3vw;
+text-align: center}
+
+body {
+  background-image: url("https://scontent-lax3-1.xx.fbcdn.net/v/t1.0-9/43880311_1480697942061904_2499335748369514496_o.jpg?_nc_cat=105&oh=b3d81c2a07f0e67a4b814b3263ac4b80&oe=5C49BEF0");
+  background-size: 100px;
+  background-repeat: repeat;
+}
